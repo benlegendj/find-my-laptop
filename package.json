@@ -1,0 +1,22 @@
+{
+	"name": "express-boilerplate",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "kiting'u",
+	"license": "ISC",
+	"dependencies": {
+		"@babel/cli": "^7.6.4",
+		"@babel/core": "^7.6.4",
+		"@babel/node": "^7.6.3",
+		"@babel/polyfill": "^7.6.0",
+		"@babel/preset-env": "^7.6.3",
+		"@babel/register": "^7.6.2",
+		"babel-plugin-transform-class-properties": "^6.24.1",
+		"express": "^4.17.1"
+	}
+}
